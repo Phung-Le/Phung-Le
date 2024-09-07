@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Phung Le (she/her) and I'm currently a Master of Engineering student studying bioengineering and bioinformatics and UC Berkeley. In addition to taking technical courses in computational biology and functional genomics, I'm also working on a capstone project called "machine learning for medical image analysis and modeling" with teammates from different departments. Coming from a background in biology (my undergraduate major), I look forward to delving deeper into computational biology!
+
+In my free time, I like to play badminton, work on English <> Vietnamese literary translation projects, and hang out with my family and friends. 
+
+
 <!--
 **Phung-Le/Phung-Le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
